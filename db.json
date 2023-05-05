@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "user2"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Buy milk shake",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Finish project",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Take out trash",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Pay bills",
+      "completed": false
+    }
+  ]
+}
